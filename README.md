@@ -50,7 +50,8 @@ uv run evmmachine.py
 - Tkinter
 - A lot of free time
 
----
+--- - - - - - - -
+Special Thanks For Claude For This README.md file 
 
 ###### ⚠️ Disclaimer
 
